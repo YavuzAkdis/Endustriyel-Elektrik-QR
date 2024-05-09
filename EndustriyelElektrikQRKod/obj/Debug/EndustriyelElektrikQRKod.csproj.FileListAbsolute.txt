@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\EndustriyelElektrikQRKod\EndustriyelElektrikQRKod\bin\Debug\EndustriyelElektrikQRKod.exe.config
+C:\Users\HP\Desktop\EndustriyelElektrikQRKod\EndustriyelElektrikQRKod\bin\Debug\EndustriyelElektrikQRKod.exe
+C:\Users\HP\Desktop\EndustriyelElektrikQRKod\EndustriyelElektrikQRKod\bin\Debug\EndustriyelElektrikQRKod.pdb
+C:\Users\HP\Desktop\EndustriyelElektrikQRKod\EndustriyelElektrikQRKod\bin\Debug\QRCoder.dll
+C:\Users\HP\Desktop\EndustriyelElektrikQRKod\EndustriyelElektrikQRKod\obj\Debug\EndustriyelElektrikQRKod.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\EndustriyelElektrikQRKod\EndustriyelElektrikQRKod\obj\Debug\EndustriyelElektrikQRKod.Form1.resources
+C:\Users\HP\Desktop\EndustriyelElektrikQRKod\EndustriyelElektrikQRKod\obj\Debug\EndustriyelElektrikQRKod.Properties.Resources.resources
+C:\Users\HP\Desktop\EndustriyelElektrikQRKod\EndustriyelElektrikQRKod\obj\Debug\EndustriyelElektrikQRKod.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\EndustriyelElektrikQRKod\EndustriyelElektrikQRKod\obj\Debug\EndustriyelElektrikQRKod.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\EndustriyelElektrikQRKod\EndustriyelElektrikQRKod\obj\Debug\Endustri.CE75926D.Up2Date
+C:\Users\HP\Desktop\EndustriyelElektrikQRKod\EndustriyelElektrikQRKod\obj\Debug\EndustriyelElektrikQRKod.exe
+C:\Users\HP\Desktop\EndustriyelElektrikQRKod\EndustriyelElektrikQRKod\obj\Debug\EndustriyelElektrikQRKod.pdb
