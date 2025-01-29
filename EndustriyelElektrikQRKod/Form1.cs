@@ -66,5 +66,7 @@ namespace EndustriyelElektrikQRKod
                 MessageBox.Show("Öncelikle bir QR kodu oluşturun.", "Uyarı", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
+
+     
     }
 }
